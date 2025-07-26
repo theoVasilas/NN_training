@@ -1,3 +1,5 @@
-In this notebook there is a cnn solusion to the Mnist dataset with Pytorch lib
-  -there has deen a imlepentation of dropout with a adaptive dropout rate 
-  -also added early stoping 
+In this notebook, we present a Convolutional Neural Network (CNN) solution for the MNIST dataset using the PyTorch library.
+
+Key features:
+- Implementation of **Dropout** with an **adaptive dropout rate**
+- Integration of **Early Stopping** to prevent overfitting
